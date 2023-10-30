@@ -29,7 +29,7 @@ My services:
 - Online marketing
 - Copywritting services
 - Restore old pictures
-
+- Massive niche advertising
 
 
 
@@ -37,3 +37,56 @@ aci.alex87@gmail.com
 
 
 Best Regards.
+Q.contactos
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+Obtenga toneladas de números de teléfono y contactos de sitios web usando Python y Selenium
+
+Aquí tienes un ejemplo de mi código disponible en público. Nuestro objetivo era passion.com y nuestras chicas favoritas, se utilizaron proxys rotativos, Python y Selenium para evitar captcha y firewalls del sitio web.
+
+
+Cómo usarlo ???
+
+1. Vaya a https://proxyland.io/ y regístrese. Hay una prueba gratuita para fines de prueba.
+2. Después de registrarse, cree un paquete y vaya al archivo create_chrome_plugin.py y reemplace PROXY_USER y PROXY_PASS con el nombre de usuario/contraseña de su paquete.
+3. ejecute python create_chrome_plugin.py para crear el complemento que Chrome usará para la rotación de IP
+4. Ahora puedes ejecutar el rastreador con "python pasion_com.py". El resultado se escribirá en pasion.csv.
+
+Probablemente esto también sería posible con https://botproxy.net
+
+
+------------------------------------------------
+
+NOTICIAS ---
+
+Passion.com ya no está disponible. Usted es libre de usar y reescribir el script para sus propios fines de scrapping. Si necesita ayuda. Puedo obtener toneladas de datos según sea necesario. Dime que necesitas y te doy un buen precio.
+
+Mis servicios:
+
+- Scrapping
+- Codificación bajo demanda
+- Desarrollo de sitios web y aplicaciones.
+- Pentesting y servicios forenses.
+- diseño de logotipos
+- Mercadeo en línea
+- Servicios de redacción
+- Restaurar fotos antiguas
+- Publicidad masiva de nicho
+
+
+
+aci.alex87@gmail.com
+
+
+Atentamente.
+Q.contactos
